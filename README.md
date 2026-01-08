@@ -47,4 +47,4 @@ No warning should be emitted. The macro attribute usage should count as using th
 
 ## Related
 
-- Swift Issue: (link to issue once filed)
+- Swift Issue: https://github.com/swiftlang/swift/issues/86375
